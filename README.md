@@ -49,6 +49,8 @@ Step 9: Aggregations and Calculations:
 Step 10: Layout and Formatting:
         Adjust the report layout and formatting to make it more user-friendly. You can arrange the visualizations, add titles, and insert headers and footers.
 
+**Visualization Output**
+
 <img width="418" alt="IBMCognosVisualization3" src="https://github.com/Harshitaa-G-A/Naan_Mudhalvan_DAC/assets/146211436/577837d7-b248-4b8f-9b30-8bfc9c420060">
 <img width="422" alt="IBMCognosVisualization2" src="https://github.com/Harshitaa-G-A/Naan_Mudhalvan_DAC/assets/146211436/74c096a2-a1b4-42b5-bd6b-8a6cef20c5e3">
 <img width="423" alt="IBMCognosVisualization1" src="https://github.com/Harshitaa-G-A/Naan_Mudhalvan_DAC/assets/146211436/fe78df1c-62a7-47b1-896e-c00b86dc1d05">
